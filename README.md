@@ -1,6 +1,6 @@
 # crypto4js
 - crypto4js provides RSA encryption(PKCS1 paading) on javascript.
-- This library is based on fantastic work done by Tom Wu @ http://www-cs-students.stanford.edu/~tjw/jsbn/. We have provided wrapper on it so that it can be easily utilized.
+- This library is based on Tom Wu's @ http://www-cs-students.stanford.edu/~tjw/jsbn/. We have provided wrapper on it so that it can be easily utilized.
 
 # Features
 
